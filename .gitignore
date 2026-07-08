@@ -1,0 +1,74 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+.pnp/
+.pnp.js
+
+# Logs
+logs
+*.log
+pids
+*.pid
+*.pid.lock
+
+# Runtime
+dist/
+build/
+.env
+.env.local
+.env.*.local
+
+# macOS/Windows
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+ENV/
+pip-wheel-metadata/
+*.egg-info/
+.eggs/
+*.sqlite3
+.pytest_cache/
+
+# AI service artifacts
+ai-service/models/
+ai-service/*.pyc
+
+# Backend uploads
+backend/uploads/
+
+# Docker
+*.log
+docker-compose.override.yml
+
+# Frontend
+frontend/node_modules/
+frontend/build/
+frontend/.env.local
+
+# Misc
+coverage/
+coverage-report/
+node_modules/
+.env
+backend/uploads/*
+!backend/uploads/.gitkeep
+frontend/build/
+.DS_Store
+*.log
+__pycache__/
+*.pyc
+.venv/
+ai-service/models/*.pth
+.vscode/
