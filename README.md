@@ -368,9 +368,7 @@ AI & Data Science Student
 
 GitHub: https://github.com/Harini744
 
-LinkedIn: *(Add your profile)*
 
----
 
 # 📄 License
 
